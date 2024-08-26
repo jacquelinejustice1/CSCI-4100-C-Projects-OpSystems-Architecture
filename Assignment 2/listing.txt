@@ -1,0 +1,6 @@
+JacquelineJustice_Assign2.c
+listing.txt
+main
+Makefile
+replit.nix
+smash
